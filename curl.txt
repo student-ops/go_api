@@ -1,0 +1,1 @@
+curl -X  POST -H "Content-Type: application/json" -d '{"state":"pushed"}' 18.183.196.94:8080/json
